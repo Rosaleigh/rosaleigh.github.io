@@ -1,0 +1,116 @@
+body {
+	background-color: #fcc7cd;
+}
+
+
+:root {
+  font-size: calc(1vw + 1vh + 1.5vmin);
+}
+/*
+body {
+  background-color: #010a00;
+  background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+  font-size: 1rem; 
+} */
+
+
+
+.neon {
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #ff0081,
+    0 0 80px #ff0081,
+    0 0 90px #ff0081,
+    0 0 100px #ff0081,
+    0 0 150px #ff0081;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 30px;
+    font-style: italic;
+
+    text-align: center;
+	
+	font-size:30px;
+	color:#ef6485;
+	text-decoration: none;
+	color:white;
+}
+
+.titleneon:hover, .titleneon:visited, .titleneon:link, .titleneon:active
+{
+    text-decoration: none;
+    color:white;
+}
+
+.titleneon {
+	color:white;
+	text-decoration: none;
+}
+
+
+
+.missjasongif1{
+  padding-top:100px;
+  align-content: :center;
+}
+
+
+.Sparkle {
+  
+  font-size:50px;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  
+ -webkit-text-fill-color: transparent;
+ background: -webkit-linear-gradient(transparent, transparent),
+             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+ background: -o-linear-gradient(transparent, transparent);
+ -webkit-background-clip: text;
+}
+
+.youalways {
+  padding-top:130px;
+  padding-left:80px;
+}
+
+
+.missjasongif2{
+  padding-top:100px;
+}
+
+.jasonvideo{
+  padding-top:130px;
+  padding-left:80px;
+
+}
+
+.crowdgif{
+padding-top:120px;
+padding-bottom: 50px;
+}
+
+.missjasongif3{
+  padding-top:120px;
+  padding-left:80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

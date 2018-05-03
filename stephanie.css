@@ -1,0 +1,118 @@
+body {
+	background-color: #fcc7cd;
+}
+
+
+:root {
+  font-size: calc(1vw + 1vh + 1.5vmin);
+}
+/*
+body {
+  background-color: #010a00;
+  background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+  font-size: 1rem; 
+} */
+
+
+
+.neon {
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #ff0081,
+    0 0 80px #ff0081,
+    0 0 90px #ff0081,
+    0 0 100px #ff0081,
+    0 0 150px #ff0081;
+    font-weight: 200;
+    text-align: center;
+    padding-top: 30px;
+    font-style: italic;
+
+    text-align: center;
+	
+	font-size:30px;
+	color:#ef6485;
+	text-decoration: none;
+	color:white;
+}
+
+.titleneon:hover, .titleneon:visited, .titleneon:link, .titleneon:active
+{
+    text-decoration: none;
+    color:white;
+}
+
+.titleneon {
+	color:white;
+	text-decoration: none;
+}
+
+
+
+.distort {
+  
+  color: #ef6485;
+  background: #fcc7cd;
+  font-size:100px;
+  text-align: center;
+  font-family: 'Oleo Script Swash Caps';
+}
+
+.distort {
+  line-height: 100%;
+}
+
+.new {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.stephanievideo{
+  padding-top:500px;
+}
+
+
+
+.stephinterview{
+  padding-top:80px;
+  color: #ef6485;
+
+
+}
+
+
+.Sparkle {
+  
+  font-size:60px;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  
+  padding-left:190px;
+  padding-top:80px;
+  
+  
+ -webkit-text-fill-color: transparent;
+ background: -webkit-linear-gradient(transparent, transparent),
+             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+ background: -o-linear-gradient(transparent, transparent);
+ -webkit-background-clip: text;
+}
+
+
+
+.stephaniegif{
+  padding-top: 160px;
+  padding-bottom:80px;
+}
+
+
+
+
+.sound{
+  padding-top:80px;
+}
